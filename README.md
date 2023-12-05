@@ -52,8 +52,11 @@ Este documento fornece as instruções necessárias para conduzir um ataque de p
    - No prompt de comando vai aparecer a fase: **"Enter the URL to clone:**
    - Digete http://www.facebook.com (Não esquece que tem que ser "HTTP" sem o "S".)
 
-### Resutados
+### Resutado
 
-![Alt text](./passwd.png "Optional title")
+![credentials](https://github.com/Blind4rch3r/cybersecurity-desafio-phishing/assets/3162513/4de7e52a-9b67-44a5-bf40-e2bb4e6e794a)
+
+
+
 
 
