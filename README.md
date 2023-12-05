@@ -50,7 +50,7 @@ Este documento fornece as instruções necessárias para conduzir um ataque de p
 
 8. **Endereço a ser clonado:**
    - No prompt de comando vai aparecer a fase: **"Enter the URL to clone:**
-   - Digete http://www.facebook.com (Não esquece que tem que ser "HTTP" sem o "S".)
+   - Digite http://www.facebook.com (Não esquece que tem que ser "HTTP" sem o "S".)
 
 ### Resutado
 
